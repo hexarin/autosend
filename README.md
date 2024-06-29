@@ -1,4 +1,4 @@
-buy me coffee
+Feel free donate to my EVM and Solana address
 
 EVM :
 
@@ -6,45 +6,44 @@ EVM :
 0xF6cef2b3C79FEF0E31FA38f0b2abaF9a59172fc5
 ```
 
-## Steps
-
-### 1. Clone Repository
+SOL :
 
 ```bash
-git clone https://github.com/VAIIO31/autosend.git
+Bn2oToZMmVW3cC7c4kaBZ36DMrkQEd5WaMk42GjedtrS
 ```
 
-```
+
+### 1. Clone Repositori
+
+```bash
+git clone https://github.com/hexarin/autosend.git
 cd autosend
 ```
 
-### 2. Instal Dependency
+### 2. Instal Dependensi
 
 ```bash
 npm install
 ```
-
-### 3. configurate .env File
-
-Create a file named .env in the project root directory.
+### 3. Change RPC & CHAIN ID
 
 ```bash
-touch .env
+nano index.js
 ```
 
-```bash
-nano .env
-```
+### 4. Konfigurasi .env File
+
+buat file .env di root projek
 
 ```bash
 SEED_PHRASES=["your seed phrase 1", "your seed phrase 2"]
 PRIVATE_KEYS=["your private key 1", "your private key 2"]
 ```
 
-### 4. Run script
+### 5. Run script
 
 ```bash
 npm run start
 ```
 
-\*Make sure you have Node.js and git installed on your system.
+\*pastikan udah install node js
