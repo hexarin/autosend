@@ -1,4 +1,5 @@
 buy me coffee
+
 EVM :
 
 ```bash
@@ -10,11 +11,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/bot-data-lake.git
+git clone https://github.com/VAIIO31/autosend.git
 ```
 
 ```
-cd bot-data-lake
+cd autosend
 ```
 
 ### 2. Instal Dependency
@@ -47,9 +48,3 @@ npm run start
 ```
 
 \*Make sure you have Node.js and git installed on your system.
-
-### Contact
-
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter :[@Izzycracker04](https://twitter.com/Izzycracker04)
-telegram : [@fitriay19]
